@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'KimThemes',
-  tagline: 'Dinosaurs are cool',
+  title: 'Kim',
+  tagline: 'Fastest, Lightweight, and Highly Customizable WordPress Theme',
   url: 'https://kimthemes.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -99,7 +99,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/KimThemes/kim',
               },
             ],
           },
